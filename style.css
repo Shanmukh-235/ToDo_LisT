@@ -5,8 +5,8 @@
     }
 body{
     height: 100vh;
-    background: linear-gradient(135deg,#84fab0, #8fd3f4);
-    /* background: linear-gradient(135deg,#8052ec, #d161ff; */
+    background: linear-gradient(135deg,#8052ec, #d161ff);
+    /* background: linear-gradient(135deg,#84fab0, #8fd3f4); */
 }
 .container{
     width: 40%;
@@ -38,7 +38,7 @@ body{
 }
 #newtask input:focus{
     outline: none;
-    border-color: #84fab0;
+    border-color: #8052ec;
 }
 #newtask button{
     position: relative;
@@ -47,7 +47,7 @@ body{
     height: 45px;
     font-family: 'poppins',sans-serif;
     font-size: 16px;
-    background-color: #84fab0;
+    background-color: #8052ec;
     border-radius: 10px;
     color: #fff;
     border: none;
@@ -79,7 +79,7 @@ body{
     font-weight: 400;
 }
 .task button{
-    background-color: #84fab0;
+    background-color: #8052ec;
     color: #fff;
     height: 100%;
     width: 40px;
